@@ -1,1 +1,1 @@
-🇦🇺 澳洲 Brisbane｜Hysteria2｜Altare = Hysteria2, au-bne01.altare.global, 25077, "900c50099d16ca5ae8c65bf3a204b14a", sni=www.bing.com, skip-cert-verify=true
+🇦🇺 澳洲 Brisbane｜VLESS+WS+TLS｜Altare = VLESS, au-bne01.altare.global, 25077, "66a1e497-65cf-4220-9b77-3c1683ddcc0d", transport=ws, path=/1bd053be, host=www.bing.com, over-tls=true, sni=www.bing.com, skip-cert-verify=true, udp=true
